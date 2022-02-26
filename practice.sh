@@ -1,3 +1,4 @@
 Man
 Woman
 Kid
+Toddler
