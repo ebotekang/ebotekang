@@ -1,4 +1,4 @@
-Man
+
 Woman
 Kid
 Toddler
