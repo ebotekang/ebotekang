@@ -1,2 +1,3 @@
 Man
 Woman
+Kid
